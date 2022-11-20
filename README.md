@@ -13,23 +13,35 @@
 
 <h2 align="center"> Languages and Tools </h2>
 
-<h4 align="center"> Languages / Tools that I am confident with </h4>
+<h4 align="center"> I'm Confident With </h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-222535?style=for-the-badge&logo=python&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/VS_Code-222535?style=for-the-badge&logo=visual%20studio%20code&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/GitHub-222535?style=for-the-badge&logo=github&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/HTML-222535?style=for-the-badge&logo=html5&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&logo=css3&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&logo=php&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&logo=mysql&logoColor=05B0FF">
 </p>
 
-<h4 align="center"> Languages / Tools that I am learning </h4>
+<h4 align="center"> I'm Learning </h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&logo=javascript&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&logo=php&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&logo=mysql&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/HTML-222535?style=for-the-badge&logo=html5&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&logo=css3&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Figma-222535?style=for-the-badge&logo=figma&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&logo=ubuntu&logoColor=05B0FF">
+</p>
+
+<h4 align="center"> I Intend to Learn </h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-222535?style=for-the-badge&logo=Java&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/C++-222535?style=for-the-badge&logo=c%2B%2B&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Go-222535?style=for-the-badge&logo=go&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&logo=Git&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-222535?style=for-the-badge&logo=intellij%20idea&logoColor=05B0FF">
 </p>
 
 <h2 align="center"> My Setup </h2>
