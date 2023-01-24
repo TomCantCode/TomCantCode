@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&logo=javascript&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Figma-222535?style=for-the-badge&logo=figma&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&logo=ubuntu&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/PHPStorm-222535?style=for-the-badge&logo=phpstorm&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/PyCharm-222535?style=for-the-badge&logo=pycharm&logoColor=05B0FF">
 </p>
 
 <h4 align="center"> I Intend to Learn </h4>
