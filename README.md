@@ -7,7 +7,7 @@
 <p align="center"> :gb: 17 year old student / developer from the United Kingdom</p>
 <p align="center"> 🎓 Currently studying for my A Levels </p>
 <p align="center"> 💻 Avid tech enthusiast </p>
-<p align="center">👨‍💻 Currently developing ExultTechDeals for Exult Software </p>
+<p align="center">👨‍💻 Developing ExultTechDeals for Exult Software (Currently On-Hold)</p>
 
 <h4 align="center"><i> I like to keep a lot of my work private (especially my more recent repos) as my clients would not like their work open-source</i></h4>
 
