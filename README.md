@@ -51,9 +51,9 @@
 <h4 align="center"> PC </h4>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CPU-Intel_Core_i5_8400-424556?style=for-the-badge&logo=intel&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/Motherboard-MSI_H310M_Pro--VDH_Plus-424556?style=for-the-badge&logo=msi&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/RAM-Corsair_Vengeance_RGB_Pro_(2x8GB,_3200MHz,_CL16)-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
+<img src="https://img.shields.io/badge/CPU-Intel_Core_i5_13400F-424556?style=for-the-badge&logo=intel&logoColor=05B0FF&labelColor=222535">
+<img src="https://img.shields.io/badge/Motherboard-ASRock_B760_Pro_RS%2FD4-424556?style=for-the-badge&logo=AsRock&logoColor=05B0FF&labelColor=222535">
+<img src="https://img.shields.io/badge/RAM-Corsair_Vengeance_RGB_Pro_(4x8GB,_3200MHz,_CL16)-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
 <img src="https://img.shields.io/badge/GPU-ASUS_TUF_Gaming_RTX_3070-424556?style=for-the-badge&logo=nvidia&logoColor=05B0FF&labelColor=222535">
 <img src="https://img.shields.io/badge/Case-Corsair_Spec--Delta-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
 <img src="https://img.shields.io/badge/Power_Supply-Corsair_RM850_(80+_Gold,_Modular)-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
