@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&logo=css3&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&logo=php&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&logo=mysql&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
 </p>
 
 <h4 align="center"> I'm Learning </h4>
@@ -40,7 +41,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Java-222535?style=for-the-badge&logo=Java&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/C++-222535?style=for-the-badge&logo=c%2B%2B&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Go-222535?style=for-the-badge&logo=go&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&logo=Git&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-222535?style=for-the-badge&logo=intellij%20idea&logoColor=05B0FF">
