@@ -4,10 +4,10 @@
 
 <h2 align="center"> About Me </h2>
 
-<p align="center"> :gb: 17 year old student / developer from the United Kingdom</p>
-<p align="center"> 🎓 Currently studying for my A Levels </p>
+<p align="center"> :gb: 18 year old student / developer from the United Kingdom</p>
+<p align="center"> 🎓 Currently completing my A Levels </p>
 <p align="center"> 💻 Avid tech enthusiast </p>
-<p align="center">👨‍💻 Developing ExultTechDeals for Exult Software (Currently On-Hold)</p>
+<p align="center">👨‍💻 Developing ExultTechDeals for Exult Software </p>
 
 <h4 align="center"><i> I like to keep a lot of my work private (especially my more recent repos) as my clients would not like their work open-source</i></h4>
 
@@ -58,6 +58,7 @@
 <img src="https://img.shields.io/badge/Case-Corsair_Spec--Delta-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
 <img src="https://img.shields.io/badge/Power_Supply-Corsair_RM850_(80+_Gold,_Modular)-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
 <img src="https://img.shields.io/badge/Storage-WD_SN850_1TB_NVMe_SSD-424556?style=for-the-badge&logo=western%20digital&logoColor=05B0FF&labelColor=222535">
+<img src="https://img.shields.io/badge/Storage-Crucial_P3_Plus_1TB_NVMe_SSD-424556?style=for-the-badge&logo=crucial&logoColor=05B0FF&labelColor=222535">
 </p>
 
 <h4 align="center"> Other </h4>
