@@ -5,7 +5,7 @@
 <h2 align="center"> About Me </h2>
 
 <p align="center"> :gb: 18 year old student / developer from the United Kingdom</p>
-<p align="center"> 🎓 Currently completing my A Levels </p>
+<p align="center"> 🎓 Currently completing a Level 6 Digital and Technological Solutions Degree Apprenticeship </p>
 <p align="center"> 💻 Avid tech enthusiast </p>
 <p align="center">👨‍💻 Developing ExultTechDeals for Exult Software </p>
 
@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/GitHub-222535?style=for-the-badge&logo=github&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/HTML-222535?style=for-the-badge&logo=html5&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&logo=css3&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&logo=javascript&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&logo=php&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&logo=mysql&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
