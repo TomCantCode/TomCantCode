@@ -35,7 +35,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&logo=ubuntu&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHPStorm-222535?style=for-the-badge&logo=phpstorm&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PyCharm-222535?style=for-the-badge&logo=pycharm&logoColor=05B0FF">
-  <img src="https://img.shields.io/badge/Azure-222535?style=for-the-badge&logo=microsoftazure&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Azure-222535?style=for-the-badge&logo=microsoftazure&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/C%23-222535?style=for-the-badge&logo=csharp&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Visual_Studio-222535?style=for-the-badge&logo=visualstudio&logoColor=05B0FF">
 </p>
 
 <h4 align="center"> I Intend to Learn </h4>
