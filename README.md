@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/HTML-222535?style=for-the-badge&logo=html5&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&logo=css3&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&logo=javascript&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Node.JS-222535?style=for-the-badge&logo=node.js&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&logo=php&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&logo=mysql&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
@@ -33,6 +34,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-222535?style=for-the-badge&logo=figma&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/React-222535?style=for-the-badge&logo=react&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&logo=ubuntu&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHPStorm-222535?style=for-the-badge&logo=phpstorm&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PyCharm-222535?style=for-the-badge&logo=pycharm&logoColor=05B0FF">
