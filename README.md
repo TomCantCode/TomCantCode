@@ -1,6 +1,6 @@
 ![Header](./TomGithubBanner.png)
 
-<p align="center"><i>"Coding may or may not be my forte."</i></p>
+<p align="center"><i>"I like to code it code it" - King Julian</i></p>
 
 <h2 align="center"> About Me </h2>
 
