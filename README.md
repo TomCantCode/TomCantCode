@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/VS_Code-222535?style=for-the-badge&logo=visual%20studio%20code&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/GitHub-222535?style=for-the-badge&logo=github&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&logo=Git&logoColor=05B0FF">
 </p>
 
 <h4 align="center"> I'm Learning </h4>
@@ -46,7 +47,6 @@
 <img src="https://img.shields.io/badge/Java-222535?style=for-the-badge&logo=Java&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/C++-222535?style=for-the-badge&logo=c%2B%2B&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Go-222535?style=for-the-badge&logo=go&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&logo=Git&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-222535?style=for-the-badge&logo=intellij%20idea&logoColor=05B0FF">
 </p>
 
