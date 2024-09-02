@@ -4,10 +4,10 @@
 
 <h2 align="center"> About Me </h2>
 
-<p align="center"> :gb: 18 year old student / developer from the United Kingdom</p>
+<p align="center"> :gb: 19 year old student / developer from the United Kingdom</p>
 <p align="center"> 🎓 Currently completing a Level 6 Digital and Technological Solutions Degree Apprenticeship </p>
 <p align="center"> 💻 Avid tech enthusiast </p>
-<p align="center">👨‍💻 Developing ExultTechDeals for Exult Software </p>
+<p align="center">👨‍💻 Developing an automated Tech Deals Bot for Discord </p>
 <p align="center">🤖 Freelance Discord Bot Developer, currently working on 3Bs </p>
 
 <h4 align="center"><i> I like to keep a lot of my work private (especially my more recent repos) as my clients would not like their work open-source</i></h4>
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&logo=css3&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&logo=javascript&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Node.JS-222535?style=for-the-badge&logo=node.js&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Vue.JS-222535?style=for-the-badge&logo=vue.js&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&logo=php&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&logo=mysql&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
@@ -35,6 +36,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-222535?style=for-the-badge&logo=figma&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/React-222535?style=for-the-badge&logo=react&logoColor=05B0FF">
+  <img src="https://img.shields.io/badge/Express-222535?style=for-the-badge&logo=express&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&logo=ubuntu&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHPStorm-222535?style=for-the-badge&logo=phpstorm&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PyCharm-222535?style=for-the-badge&logo=pycharm&logoColor=05B0FF">
