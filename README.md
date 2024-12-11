@@ -1,6 +1,6 @@
 ![Header](./TomGithubBanner.png)
 
-<p align="center"><i>"I like to code it code it" - King Julian</i></p>
+<p align="center"><i>"Just because something doesn’t do what you planned it to do doesn’t mean it’s useless." - Thomas Edison</i></p>
 
 <h2 align="center"> About Me </h2>
 
@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&logo=mysql&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/VS_Code-222535?style=for-the-badge&logo=visual%20studio%20code&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/phpMyAdmin-222535?style=for-the-badge&logo=phpmyadmin&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/GitHub-222535?style=for-the-badge&logo=github&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&logo=Git&logoColor=05B0FF">
 </p>
@@ -36,7 +37,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-222535?style=for-the-badge&logo=figma&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/React-222535?style=for-the-badge&logo=react&logoColor=05B0FF">
-  <img src="https://img.shields.io/badge/Express-222535?style=for-the-badge&logo=express&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/OpenAI-222535?style=for-the-badge&logo=openai&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Express-222535?style=for-the-badge&logo=express&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&logo=ubuntu&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHPStorm-222535?style=for-the-badge&logo=phpstorm&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PyCharm-222535?style=for-the-badge&logo=pycharm&logoColor=05B0FF">
