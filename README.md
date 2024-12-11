@@ -79,6 +79,6 @@
 <h2 align="center"> GitHub Stats </h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TomCantCode&show_icons=true&count_private=true&bg_color=1c1c1f&title_color=05B0FF&text_color=05B0FF&icon_color=05B0FF&border_color=05B0FF">
-<!---<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomCantCode&layout=compact&bg_color=1c1c1f&title_color=05B0FF&text_color=05B0FF&icon_color=05B0FF&border_color=05B0FF")>
-</p>-->
+<img src="https://github-readme-stats.vercel.app/api?username=TomCantCode&show_icons=true&count_private=true&bg_color=1c1c1f&title_color=05B0FF&text_color=05B0FF&icon_color=05B0FF&border_color=05B0FF"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomCantCode&layout=compact&bg_color=1c1c1f&title_color=05B0FF&text_color=05B0FF&icon_color=05B0FF&border_color=05B0FF")>
+</p>
