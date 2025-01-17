@@ -75,6 +75,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Laptop-Dell_Inspiron_7415-424556?style=for-the-badge&logo=dell&logoColor=05B0FF&labelColor=222535">
+<img src="https://img.shields.io/badge/Laptop-MacBook_Pro_M1_Pro_32GB-424556?style=for-the-badge&logo=apple&logoColor=05B0FF&labelColor=222535">
   
 <h2 align="center"> GitHub Stats </h2>
 
