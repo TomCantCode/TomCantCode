@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/HTML-222535?style=for-the-badge&logo=html5&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&logo=css3&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&logo=javascript&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/TypeScript-222535?style=for-the-badge&logo=typescript&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Node.JS-222535?style=for-the-badge&logo=node.js&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Vue.JS-222535?style=for-the-badge&logo=vue.js&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&logo=php&logoColor=05B0FF">
@@ -30,6 +31,7 @@
 <img src="https://img.shields.io/badge/phpMyAdmin-222535?style=for-the-badge&logo=phpmyadmin&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/GitHub-222535?style=for-the-badge&logo=github&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&logo=Git&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Cypress-222535?style=for-the-badge&logo=Cypress&logoColor=05B0FF">
 </p>
 
 <h4 align="center"> I'm Learning </h4>
@@ -53,6 +55,7 @@
 <img src="https://img.shields.io/badge/Java-222535?style=for-the-badge&logo=Java&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/C++-222535?style=for-the-badge&logo=c%2B%2B&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Go-222535?style=for-the-badge&logo=go&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Laravel-222535?style=for-the-badge&logo=laravel&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-222535?style=for-the-badge&logo=intellij%20idea&logoColor=05B0FF">
 </p>
 
