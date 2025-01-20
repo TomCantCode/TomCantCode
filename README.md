@@ -6,7 +6,7 @@
 
 <p align="center"> :gb: 19 year old student / developer from the United Kingdom</p>
 <p align="center"> 🎓 Currently completing a Level 6 Digital and Technological Solutions Degree Apprenticeship </p>
-<p align="center"> 💻 Avid tech enthusiast </p>
+<p align="center"> 💻 Tech enthusiast </p>
 <p align="center">👨‍💻 Developing an automated Tech Deals Bot for Discord </p>
 <p align="center">🤖 Freelance Discord Bot Developer, currently working on 3Bs </p>
 
