@@ -4,7 +4,7 @@
 
 <h2 align="center"> About Me </h2>
 
-<p align="center"> :gb: 19 year old student / developer from the United Kingdom</p>
+<p align="center"> :gb: 20 year old student / developer from the United Kingdom</p>
 <p align="center"> 🎓 Currently completing a Level 6 Digital and Technological Solutions Degree Apprenticeship </p>
 <p align="center"> 💻 Tech enthusiast </p>
 <p align="center">👨‍💻 Developing an automated Tech Deals Bot for Discord </p>
