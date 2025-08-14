@@ -32,21 +32,24 @@
 <img src="https://img.shields.io/badge/GitHub-222535?style=for-the-badge&logo=github&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&logo=Git&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Cypress-222535?style=for-the-badge&logo=Cypress&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/React-222535?style=for-the-badge&logo=react&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/OpenAI-222535?style=for-the-badge&logo=openai&logoColor=05B0FF">
 </p>
 
 <h4 align="center"> I'm Learning </h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-222535?style=for-the-badge&logo=figma&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/React-222535?style=for-the-badge&logo=react&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/OpenAI-222535?style=for-the-badge&logo=openai&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Express-222535?style=for-the-badge&logo=express&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&logo=ubuntu&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PHPStorm-222535?style=for-the-badge&logo=phpstorm&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/PyCharm-222535?style=for-the-badge&logo=pycharm&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Azure-222535?style=for-the-badge&logo=microsoftazure&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Azure-222535?style=for-the-badge&logo=microsoft&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/C%23-222535?style=for-the-badge&logo=csharp&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Visual_Studio-222535?style=for-the-badge&logo=visualstudio&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Streamlit-222535?style=for-the-badge&logo=streamlit&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/LangChain-222535?style=for-the-badge&logo=langchain&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/Google_ADK-222535?style=for-the-badge&logo=google&logoColor=05B0FF">
 </p>
 
 <h4 align="center"> I Intend to Learn </h4>
