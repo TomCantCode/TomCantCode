@@ -49,7 +49,9 @@
 <img src="https://img.shields.io/badge/Visual_Studio-222535?style=for-the-badge&logo=visualstudio&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Streamlit-222535?style=for-the-badge&logo=streamlit&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/LangChain-222535?style=for-the-badge&logo=langchain&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/LangGraph-222535?style=for-the-badge&logo=langgraph&logoColor=05B0FF">
 <img src="https://img.shields.io/badge/Google_ADK-222535?style=for-the-badge&logo=google&logoColor=05B0FF">
+<img src="https://img.shields.io/badge/FFMPEG-222535?style=for-the-badge&logo=ffmpeg&logoColor=05B0FF">
 </p>
 
 <h4 align="center"> I Intend to Learn </h4>
