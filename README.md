@@ -1,4 +1,4 @@
-![Header](./TomGithubBanner.png)
+![Header](./TomBanner.png)
 
 <p align="center"><i>"Just because something doesn’t do what you planned it to do doesn’t mean it’s useless." - Thomas Edison</i></p>
 
