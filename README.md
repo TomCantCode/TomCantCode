@@ -1,4 +1,6 @@
-![Header](./TomBanner.png)
+<p align="center">
+  <img src="./TomBannerNew.png" alt="Hi, I'm Tom and I can code." width="100%">
+</p>
 
 <p align="center"><i>"Just because something doesn’t do what you planned it to do doesn’t mean it’s useless." - Thomas Edison</i></p>
 
