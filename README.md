@@ -2,88 +2,147 @@
   <img src="./TomBanner.png" alt="Hi, I'm Tom and I can code." width="100%">
 </p>
 
-<p align="center"><i>"Just because something doesn’t do what you planned it to do doesn’t mean it’s useless." - Thomas Edison</i></p>
-
-<h2 align="center"> About Me </h2>
-
-<p align="center"> :gb: 21 year old student / developer from the United Kingdom</p>
-<p align="center"> 🎓 Currently completing a Level 6 Digital and Technological Solutions Degree Apprenticeship </p>
-<p align="center"> 💻 Tech enthusiast </p>
-<p align="center">👨‍💻 Developing an automated Tech Deals Bot for Discord </p>
-<p align="center">🤖 Freelance Discord Bot Developer, currently working on 3Bs </p>
-
-<h4 align="center"><i> I like to keep a lot of my work private (especially my more recent repos) as my clients would not like their work open-source</i></h4>
-
-<h2 align="center"> Languages and Tools </h2>
-
-<h4 align="center"> I'm Confident With </h4>
-
+<h3 align="center">
+  &ldquo;What I cannot create, I do not understand.&rdquo;
+</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-222535?style=for-the-badge&logo=python&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/HTML-222535?style=for-the-badge&logo=html5&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&logo=css3&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&logo=javascript&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/TypeScript-222535?style=for-the-badge&logo=typescript&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Node.JS-222535?style=for-the-badge&logo=node.js&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Vue.JS-222535?style=for-the-badge&logo=vue.js&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&logo=php&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&logo=mysql&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&logo=postgresql&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/VS_Code-222535?style=for-the-badge&logo=visual%20studio%20code&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/phpMyAdmin-222535?style=for-the-badge&logo=phpmyadmin&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/GitHub-222535?style=for-the-badge&logo=github&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&logo=Git&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Cypress-222535?style=for-the-badge&logo=Cypress&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/React-222535?style=for-the-badge&logo=react&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/OpenAI-222535?style=for-the-badge&logo=openai&logoColor=05B0FF">
+  <sub>RICHARD FEYNMAN</sub>
 </p>
 
-<h4 align="center"> I'm Learning </h4>
+<br>
+
+<h1 align="center">Hi, I'm Tom 👋</h1>
+<p align="center"><strong>Forward Deployed Engineer · Software &amp; AI</strong></p>
+<p align="center">Despite the username, I can code. I've been doing it since 2018, so TomCantCode is getting harder to defend.</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Figma-222535?style=for-the-badge&logo=figma&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Express-222535?style=for-the-badge&logo=express&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&logo=ubuntu&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/PHPStorm-222535?style=for-the-badge&logo=phpstorm&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/PyCharm-222535?style=for-the-badge&logo=pycharm&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Azure-222535?style=for-the-badge&logo=microsoft&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/C%23-222535?style=for-the-badge&logo=csharp&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Visual_Studio-222535?style=for-the-badge&logo=visualstudio&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Streamlit-222535?style=for-the-badge&logo=streamlit&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/LangChain-222535?style=for-the-badge&logo=langchain&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/LangGraph-222535?style=for-the-badge&logo=langgraph&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Google_ADK-222535?style=for-the-badge&logo=google&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/FFMPEG-222535?style=for-the-badge&logo=ffmpeg&logoColor=05B0FF">
+  <img src="https://img.shields.io/badge/Based_in-Manchester%2C_UK-424556?style=for-the-badge&amp;labelColor=222535&amp;color=424556" alt="Based in Manchester, UK">
+  <img src="https://img.shields.io/badge/Coding_since-2018-424556?style=for-the-badge&amp;labelColor=222535" alt="Coding since 2018">
+  <a href="https://portfolio.tomt.uk"><img src="./assets/badges/portfolio.svg" alt="Explore my portfolio"></a>
 </p>
 
-<h4 align="center"> I Intend to Learn </h4>
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 What Makes Me Tick</h3>
+      <p>Practical AI, useful automation and software that makes someone's day easier. I enjoy taking an open-ended idea all the way from the first conversation to deployment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Where It Started</h3>
+      <p>Python sparked my interest in coding; Discord bots taught me APIs, databases and automation. Today, I build across AI systems and full-stack web applications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ What I Build</h3>
+      <p>AI agents, automated workflows, web apps and custom Discord bots. I care about the details, from the interface to the infrastructure.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏁 Away from the Keyboard</h3>
+      <p>Formula 1 fan, live music show regular, and traveller. I once saw my favourite artist live five times in one year.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Much of my client work lives in private repositories. There's more to explore on my portfolio.</sub></p>
+
+<br>
+
+<h2 align="center">My Technical Toolkit</h2>
+<p align="center">From Python automation to AI agents and modern web interfaces.</p>
+
+<h4 align="center">AI &amp; Machine Learning</h4>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-222535?style=for-the-badge&logo=Java&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/C++-222535?style=for-the-badge&logo=c%2B%2B&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Go-222535?style=for-the-badge&logo=go&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/Laravel-222535?style=for-the-badge&logo=laravel&logoColor=05B0FF">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-222535?style=for-the-badge&logo=intellij%20idea&logoColor=05B0FF">
+  <img src="./assets/badges/azure-openai.svg" alt="Azure OpenAI">
+  <img src="./assets/badges/openai.svg" alt="OpenAI">
+  <img src="https://img.shields.io/badge/LangChain-222535?style=for-the-badge&amp;logo=langchain&amp;logoColor=05B0FF" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-222535?style=for-the-badge&amp;logo=langgraph&amp;logoColor=05B0FF" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Google%20ADK-222535?style=for-the-badge&amp;logo=google&amp;logoColor=05B0FF" alt="Google ADK">
+  <img src="./assets/badges/azure-foundry.svg" alt="Azure Foundry">
+  <img src="https://img.shields.io/badge/scikit--learn-222535?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=05B0FF" alt="scikit-learn">
 </p>
 
-<h2 align="center"> My Setup </h2>
-
-<h4 align="center"> PC </h4>
+<h4 align="center">Frontend</h4>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CPU-Intel_Core_i5_13400F-424556?style=for-the-badge&logo=intel&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/Motherboard-ASRock_B760_Pro_RS%2FD4-424556?style=for-the-badge&logo=AsRock&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/RAM-Corsair_Vengeance_RGB_Pro_(4x8GB,_3200MHz,_CL16)-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/GPU-ASUS_TUF_Gaming_RTX_3070-424556?style=for-the-badge&logo=nvidia&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/Case-Corsair_Spec--Delta-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/Power_Supply-Corsair_RM850_(80+_Gold,_Modular)-424556?style=for-the-badge&logo=corsair&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/Storage-WD_SN850_1TB_NVMe_SSD-424556?style=for-the-badge&logo=western%20digital&logoColor=05B0FF&labelColor=222535">
-<img src="https://img.shields.io/badge/Storage-Crucial_P3_Plus_1TB_NVMe_SSD-424556?style=for-the-badge&logo=crucial&logoColor=05B0FF&labelColor=222535">
+  <img src="https://img.shields.io/badge/TypeScript-222535?style=for-the-badge&amp;logo=typescript&amp;logoColor=05B0FF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-222535?style=for-the-badge&amp;logo=javascript&amp;logoColor=05B0FF" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vue.js-222535?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=05B0FF" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Nuxt-222535?style=for-the-badge&amp;logo=nuxt&amp;logoColor=05B0FF" alt="Nuxt">
+  <img src="https://img.shields.io/badge/React-222535?style=for-the-badge&amp;logo=react&amp;logoColor=05B0FF" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-222535?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=05B0FF" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HTML-222535?style=for-the-badge&amp;logo=html5&amp;logoColor=05B0FF" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-222535?style=for-the-badge&amp;logo=css&amp;logoColor=05B0FF" alt="CSS">
+  <img src="https://img.shields.io/badge/Streamlit-222535?style=for-the-badge&amp;logo=streamlit&amp;logoColor=05B0FF" alt="Streamlit">
 </p>
 
-<h2 align="center"> GitHub Stats </h2>
+<h4 align="center">Backend &amp; Integration</h4>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TomCantCode&show_icons=true&count_private=true&bg_color=1c1c1f&title_color=05B0FF&text_color=05B0FF&icon_color=05B0FF&border_color=05B0FF"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomCantCode&layout=compact&bg_color=1c1c1f&title_color=05B0FF&text_color=05B0FF&icon_color=05B0FF&border_color=05B0FF")>
+  <img src="https://img.shields.io/badge/Python-222535?style=for-the-badge&amp;logo=python&amp;logoColor=05B0FF" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-222535?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=05B0FF" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-222535?style=for-the-badge&amp;logo=express&amp;logoColor=05B0FF" alt="Express">
+  <img src="https://img.shields.io/badge/FastAPI-222535?style=for-the-badge&amp;logo=fastapi&amp;logoColor=05B0FF" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-222535?style=for-the-badge&amp;logo=flask&amp;logoColor=05B0FF" alt="Flask">
+  <img src="https://img.shields.io/badge/PHP-222535?style=for-the-badge&amp;logo=php&amp;logoColor=05B0FF" alt="PHP">
+  <img src="https://img.shields.io/badge/discord.py-222535?style=for-the-badge&amp;logo=discord&amp;logoColor=05B0FF" alt="discord.py">
+  <img src="https://img.shields.io/badge/FFmpeg-222535?style=for-the-badge&amp;logo=ffmpeg&amp;logoColor=05B0FF" alt="FFmpeg">
 </p>
+
+<details>
+<summary align="center"><strong>More Tools</strong><br><sub>Data, Cloud, Testing &amp; Design</sub></summary>
+
+<h4 align="center">Development Tools</h4>
+
+<p align="center">
+  <img src="./assets/badges/vscode.svg" alt="VS Code">
+  <img src="https://img.shields.io/badge/phpMyAdmin-222535?style=for-the-badge&amp;logo=phpmyadmin&amp;logoColor=05B0FF" alt="phpMyAdmin">
+</p>
+
+<h4 align="center">Data</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-222535?style=for-the-badge&amp;logo=postgresql&amp;logoColor=05B0FF" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-222535?style=for-the-badge&amp;logo=mysql&amp;logoColor=05B0FF" alt="MySQL">
+  <img src="https://img.shields.io/badge/Pandas-222535?style=for-the-badge&amp;logo=pandas&amp;logoColor=05B0FF" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-222535?style=for-the-badge&amp;logo=numpy&amp;logoColor=05B0FF" alt="NumPy">
+  <img src="https://img.shields.io/badge/BeautifulSoup-222535?style=for-the-badge&amp;logo=python&amp;logoColor=05B0FF" alt="BeautifulSoup">
+</p>
+
+<h4 align="center">Cloud &amp; Delivery</h4>
+
+<p align="center">
+  <img src="./assets/badges/azure.svg" alt="Azure">
+  <img src="./assets/badges/azure-devops.svg" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/Git-222535?style=for-the-badge&amp;logo=git&amp;logoColor=05B0FF" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-222535?style=for-the-badge&amp;logo=github&amp;logoColor=05B0FF" alt="GitHub">
+  <img src="https://img.shields.io/badge/Ubuntu-222535?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=05B0FF" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/NGINX-222535?style=for-the-badge&amp;logo=nginx&amp;logoColor=05B0FF" alt="NGINX">
+</p>
+
+<h4 align="center">Testing &amp; Design</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-222535?style=for-the-badge&amp;logo=cypress&amp;logoColor=05B0FF" alt="Cypress">
+  <img src="https://img.shields.io/badge/Jest-222535?style=for-the-badge&amp;logo=jest&amp;logoColor=05B0FF" alt="Jest">
+  <img src="https://img.shields.io/badge/Vitest-222535?style=for-the-badge&amp;logo=vitest&amp;logoColor=05B0FF" alt="Vitest">
+  <img src="https://img.shields.io/badge/Figma-222535?style=for-the-badge&amp;logo=figma&amp;logoColor=05B0FF" alt="Figma">
+</p>
+
+</details>
+
+<br>
+
+<h2 align="center">Always Learning</h2>
+
+<p align="center">
+  <img src="./assets/badges/azure-ai-engineer.svg" alt="Microsoft Certified: Azure AI Engineer Associate (AI-102)">
+  <img src="https://img.shields.io/badge/Google_Cloud-Generative_AI_Leader-424556?style=for-the-badge&amp;labelColor=222535&amp;logo=googlecloud&amp;logoColor=05B0FF" alt="Google Cloud: Generative AI Leader">
+  <img src="https://img.shields.io/badge/ICAgile-Certified_Professional-424556?style=for-the-badge&amp;labelColor=222535" alt="ICAgile Certified Professional">
+  <img src="https://img.shields.io/badge/GitHub-Copilot_Certified-424556?style=for-the-badge&amp;labelColor=222535&amp;logo=githubcopilot&amp;logoColor=05B0FF" alt="GitHub Copilot certification">
+</p>
+
+<p align="center"><a href="https://portfolio.tomt.uk">More about me, my work and my credentials ↗</a></p>
